@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270964760992",
+    "firebase_url": "https://remastered-b578b.firebaseio.com",
+    "project_id": "remastered-b578b",
+    "storage_bucket": "remastered-b578b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270964760992:android:af08bb7347bf6334",
+        "android_client_info": {
+          "package_name": "com.example.fiall.a2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270964760992-ba6791nma7hviqsf22r6l4ec36tk10k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgXAok3Z0n12ehvVmq5xWmU4uxK3DS_o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270964760992-ba6791nma7hviqsf22r6l4ec36tk10k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
